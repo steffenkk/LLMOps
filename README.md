@@ -59,3 +59,15 @@ The model can be instructed to use different tools with different control flows 
 
 When using a control flow, the developer should implement tests (see prompt evaluation) for it in order to ensure it works correctly. 
  
+# Part III: AI use cases
+
+The author mentions a lot of interesting use cases. Amongst these are: search and recommendation, natural language queries to SQL, data analysis (small data sets, bc they must fit in the prompt), learning, AI assistants and chat bots, etc.
+
+
+# Conclusion:
+
+The domain is changing extremly fast. Papers are getting outdated very quickly and cost-benefit analysis must be performed every week to keep up with the development speed. Strategies to keep up with it are:
+
+- Ignore (most of) the hype and see what sticks
+- Read only the summaries
+- Keep up with the latest tools
