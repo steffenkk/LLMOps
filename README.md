@@ -6,7 +6,7 @@ This is a summary of https://huyenchip.com/2023/04/11/llm-engineering.html
 
 - [Challenges in Productionizing LLms](#part-i-challenges-in-productionizing-llms)
 - [Composability of multiple tasks](#part-ii-composability-of-multiple-tasks)
-- [Part III: AI use cases](#part-iii-ai-use-cases)
+- [AI use cases](#part-iii-ai-use-cases)
 - [Conclusion](#conclusion)
 
 
